@@ -1,0 +1,2 @@
+# Auto-Sunlight-Solar-Panel-Detector-and-Door-Lock
+In this project we have designed a smart home , Auto Sunlight detector through Solar Panel and intruder locking system using Arduino system in which solar panel will automatically rotate towards the ray of sunlight and converts solar energy in to electrical energy then stores it whereas the door lock will allow only registered member of the family. Then its supplies the stored energy to the home appliances through the Arduino which is further controlled by Arduinodriod application.  
